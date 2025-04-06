@@ -1,0 +1,26 @@
+This is a placeholder file for the images directory.
+
+For a complete website, you would need to add the following images:
+
+1. tibet-hero.jpg - Hero image for the homepage
+2. lhasa.jpg - Image of Lhasa for featured destinations
+3. everest.jpg - Image of Everest Base Camp for featured destinations
+4. namtso.jpg - Image of Lake Namtso for featured destinations
+5. testimonial1.jpg - Profile image for testimonial
+6. testimonial2.jpg - Profile image for testimonial
+7. tibet-prayer-flags.jpg - Background image for CTA section
+8. tibet-mountains.jpg - Background for page headers
+9. potala-palace.jpg - Image for Lhasa destination
+10. everest-base-camp.jpg - Image for Everest Base Camp destination
+11. namtso-lake.jpg - Image for Lake Namtso destination
+12. tashilhunpo.jpg - Image for Shigatse destination
+13. yamdrok-lake.jpg - Image for Lake Yamdrok destination
+14. mount-kailash.jpg - Image for Mount Kailash destination
+15. guge-kingdom.jpg - Image for Guge Kingdom Ruins destination
+16. tibet-landscape.jpg - Image for About Tibet section
+17. tibet-culture.jpg - Image for Tibet Culture section
+18. tibetan-people.jpg - Image for Tibetan People section
+19. our-team.jpg - Image for About Company section
+20. responsible-tourism.jpg - Image for Responsible Tourism section
+
+Please add high-quality, properly licensed images to enhance the website's visual appeal.

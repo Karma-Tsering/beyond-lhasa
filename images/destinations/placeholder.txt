@@ -1,0 +1,11 @@
+This directory will contain destination images including:
+- lhasa.jpg - Image of Lhasa city
+- potala-palace.jpg - Potala Palace in Lhasa
+- everest.jpg - Everest Base Camp
+- everest-base-camp.jpg - Another view of Everest Base Camp
+- namtso.jpg - Lake Namtso
+- namtso-lake.jpg - Another view of Lake Namtso
+- tashilhunpo.jpg - Tashilhunpo Monastery in Shigatse
+- yamdrok-lake.jpg - Lake Yamdrok
+- mount-kailash.jpg - Mount Kailash
+- guge-kingdom.jpg - Ruins of Guge Kingdom

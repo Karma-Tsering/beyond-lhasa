@@ -1,0 +1,10 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text { font-family: Arial, sans-serif; font-weight: bold; }
+    .main-text { font-size: 24px; }
+    .tagline { font-size: 12px; }
+  </style>
+  <rect width="200" height="60" fill="#1a2b49"/>
+  <text x="100" y="30" fill="white" text-anchor="middle" class="logo-text main-text">BEYOND LHASA</text>
+  <text x="100" y="45" fill="#e63946" text-anchor="middle" class="logo-text tagline">Authentic Tibetan Journeys</text>
+</svg>

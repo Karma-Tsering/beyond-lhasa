@@ -1,0 +1,4 @@
+This directory will contain background images for the website including:
+- tibet-hero.jpg - Main hero background
+- tibet-mountains.jpg - Page header background
+- tibet-prayer-flags.jpg - CTA section background

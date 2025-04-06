@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Beyond Lhasa</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="page-header">
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><img src="images/logo-placeholder.svg" alt="Beyond Lhasa" class="logo-img">Beyond Lhasa</a>
+            </div>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="destinations.html">Destinations</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About Tibet</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="page-title">
+            <h1>Contact Us</h1>
+            <p>Let's start planning your Tibetan adventure</p>
+        </div>
+    </header>
+
+    <section class="contact-intro">
+        <div class="container">
+            <p>Whether you're ready to book a tour, have questions about Tibet travel, or need customized itinerary advice, our team is here to help. Reach out to us through any of the methods below, and we'll respond within 24 hours.</p>
+        </div>
+    </section>
+
+    <section class="contact-details">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-form">
+                    <h2>Send Us a Message</h2>
+                    <form id="contactForm" action="#" method="post">
+                        <div class="form-group">
+                            <label for="name">Your Name</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number (optional)</label>
+                            <input type="tel" id="phone" name="phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="travelDate">Planned Travel Date (if known)</label>
+                            <input type="date" id="travelDate" name="travelDate">
+                        </div>
+                        <div class="form-group">
+                            <label for="groupSize">Number of Travelers</label>
+                            <select id="groupSize" name="groupSize">
+                                <option value="1">1 person</option>
+                                <option value="2">2 people</option>
+                                <option value="3-5">3-5 people</option>
+                                <option value="6-10">6-10 people</option>
+                                <option value="11+">11+ people</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="interests">Travel Interests</label>
+                            <select id="interests" name="interests">
+                                <option value="cultural">Cultural Tour</option>
+                                <option value="trekking">Trekking & Adventure</option>
+                                <option value="spiritual">Spiritual Journey</option>
+                                <option value="photography">Photography Tour</option>
+                                <option value="custom">Custom Itinerary</option>
+                            </select>
+                        </div>
+                        <div class="form-group full-width">
+                            <label for="message">Your Message</label>
+                            <textarea id="message" name="message" rows="5" required></textarea>
+                        </div>
+                        <div class="form-group full-width">
+                            <button type="submit" class="btn-primary">Send Message</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="contact-info">
+                    <h2>Other Ways to Reach Us</h2>
+                    <div class="info-item">
+                        <div class="info-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Email</h3>
+                            <p>info@beyondlhasa.com</p>
+                            <p>bookings@beyondlhasa.com</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Phone</h3>
+                            <p>+86 891 123 4567 (Main Office)</p>
+                            <p>+86 891 765 4321 (Bookings)</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Office Address</h3>
+                            <p>123 Barkhor Street</p>
+                            <p>Lhasa, Tibet Autonomous Region</p>
+                            <p>China 850000</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Office Hours</h3>
+                            <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
+                            <p>Saturday: 10:00 AM - 4:00 PM</p>
+                            <p>Sunday: Closed</p>
+                            <p>(Tibet Standard Time, GMT+8)</p>
+                        </div>
+                    </div>
+                    <div class="social-connect">
+                        <h3>Connect With Us</h3>
+                        <div class="social-icons">
+                            <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-tripadvisor"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <h3>How far in advance should I book my Tibet tour?</h3>
+                    <p>We recommend booking at least 2-3 months in advance, especially if you plan to travel during the peak season (May-October). This allows sufficient time for permit processing and ensures availability of preferred accommodations.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What permits do I need to visit Tibet?</h3>
+                    <p>Foreign travelers need several permits to visit Tibet, including the Tibet Travel Permit, Alien's Travel Permit (for areas outside Lhasa), and additional permits for certain regions. As your tour operator, we handle all permit arrangements for you.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Can I travel to Tibet independently?</h3>
+                    <p>No, foreign travelers must be part of an organized tour with a licensed guide. Independent travel is not permitted. However, our tours can be private and customized to your preferences.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>How do I prepare for the high altitude?</h3>
+                    <p>We recommend consulting your doctor before traveling, staying well-hydrated, allowing time for acclimatization, avoiding alcohol, and considering altitude medication. Our itineraries are designed with gradual ascent profiles to help with acclimatization.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What is the best time to visit Tibet?</h3>
+                    <p>The best time is from April to October, with May to September being the peak season. Different activities and regions may have specific optimal times, which we can advise on based on your interests.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What payment methods do you accept?</h3>
+                    <p>We accept credit cards, PayPal, bank transfers, and WeChat Pay. A deposit is required to confirm your booking, with the balance due 30 days before your tour start date.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- <section class="map-section">
+        <div class="container">
+            <h2>Find Us</h2>
+            <div class="map-container">
+                <div class="map-placeholder">
+                    <p>Interactive Map Loading...</p>
+                    <p>Our office is located in the heart of Lhasa's historic district, near Barkhor Street.</p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Beyond Lhasa</h3>
+                    <p>Your gateway to authentic Tibetan experiences.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="destinations.html">Destinations</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="about.html">About Tibet</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contact Us</h4>
+                    <p><i class="fas fa-envelope"></i> info@beyondlhasa.com</p>
+                    <p><i class="fas fa-phone"></i> +86 891 123 4567</p>
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Beyond Lhasa. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

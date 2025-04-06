@@ -1,0 +1,3 @@
+This directory will contain testimonial profile images including:
+- testimonial1.jpg - Profile image for first testimonial
+- testimonial2.jpg - Profile image for second testimonial

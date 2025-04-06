@@ -1,0 +1,6 @@
+This directory will contain team and company-related images including:
+- our-team.jpg - Image of the Beyond Lhasa team
+- responsible-tourism.jpg - Image showing responsible tourism initiatives
+- tibet-landscape.jpg - General landscape image of Tibet
+- tibet-culture.jpg - Image representing Tibetan culture
+- tibetan-people.jpg - Image of Tibetan people in traditional dress
